@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathias-ehrenfried-stieger
 - 👀 I’m interested in Backend or Fullstack-Developement
-- 🌱 I’m currently learning as much as possible, especially next.js
+- 🌱 I’m currently learning as much as possible, especially symfony
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
